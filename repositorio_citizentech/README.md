@@ -85,7 +85,7 @@ Mais detalhes em [`ml/dados/README.md`](ml/dados/README.md).
 | Dependências | [`ml/requirements.txt`](ml/requirements.txt) |
 | Relatório | [`RELATORIO_ML.md`](RELATORIO_ML.md) |
 | PDF de insights | [`docs/Insights_CitizenTech_ML.pdf`](docs/Insights_CitizenTech_ML.pdf) |
-| Vídeo (até 5 min, YouTube não listado) | _inserir o link aqui_ |
+| Vídeo (até 5 min, YouTube não listado) | https://youtu.be/SVOYIfv4YN8 |
 
 ## Como executar
 
